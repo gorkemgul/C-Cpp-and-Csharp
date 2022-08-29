@@ -7,7 +7,7 @@ int main()
     - We're gonna do an exercise about while loop in c.
     - Our program is gonna ask us to enter a number and we're gonna enter 100.
     - The loop is gonna multiply our number with the numbers from 1 to 10.
-    - After the loop is finished, we're gonna get 100, 200, 300, 400, 500, 600, 700, 800, 900 and 1000 as an output.
+    - After the loop is finished, we're gonna get 100, 200, 300, 400, 500, 600, 700, 800, 900 and 1000 as outputs.
     */
     // let's start by creating an integer
     int i;

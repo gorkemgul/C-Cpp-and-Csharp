@@ -6,7 +6,7 @@ int main()
     // We're going to write an if-else statement to find if the given number is odd or even.
     // let's take an input from user
     int number;
-    printf("Please, enter a number.");
+    printf("Please, enter a number.\n");
     scanf("The given number is: %d", &number);
     // let's write an if-else statement
     if (number % 2 == 0)
