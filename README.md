@@ -1,2 +1,2 @@
 # C and C++ Tutorial
-This is a C and C++ tutorial repository (still working on this).
+This is a C and C++ tutorial repository (currently working on this).
