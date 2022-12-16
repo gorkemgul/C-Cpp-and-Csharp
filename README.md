@@ -1,2 +1,2 @@
 # C and C++ Tutorial
-This is a C and C++ tutorial repository (currently working on this).
+This is a complete C and C++ tutorial repository for everyone to be able to understand every concept of them. (currently working on this).
