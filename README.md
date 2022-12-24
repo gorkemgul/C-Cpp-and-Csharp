@@ -6,5 +6,6 @@ This is a complete C and C++ tutorial repository for everyone to be able to unde
   <li>Introduction to C++</li>
   <li>Data Types & Variables</li>
   <li>Operations on Data</li>
+  <li>Literals & Constants</li>
 </ol>
 
