@@ -4,6 +4,7 @@ This is a complete C and C++ tutorial repository for everyone to be able to unde
 <h3>C++ Topics</h3>
 <ol>
   <li>Introduction to C++</li>
-  <li></li>
+  <li>Data Types & Variables</li>
+  <li>Operations on Data</li>
 </ol>
 
