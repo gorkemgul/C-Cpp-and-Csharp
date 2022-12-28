@@ -7,5 +7,6 @@ This is a complete C and C++ tutorial repository for everyone to be able to unde
   <li>Data Types & Variables</li>
   <li>Operations on Data</li>
   <li>Literals & Constants</li>
+  <li>Data Conversions</li>
 </ol>
 
