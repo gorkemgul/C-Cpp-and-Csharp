@@ -8,5 +8,6 @@ This is a complete C and C++ tutorial repository for everyone to be able to unde
   <li>Operations on Data</li>
   <li>Literals & Constants</li>
   <li>Data Conversions</li>
+  <li>Bitwise Operators</li>
 </ol>
 
