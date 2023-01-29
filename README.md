@@ -1,4 +1,4 @@
-# C and C++ Tutorial
+# C and C++ Collection
 This is a complete C and C++ tutorial repository for everyone to be able to understand every concept of them. (currently working on this). You may see all covered topics below.
 
 <h3>C++ Topics</h3>
