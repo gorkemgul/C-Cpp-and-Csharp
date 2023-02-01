@@ -9,5 +9,7 @@ This is a complete C and C++ tutorial repository for everyone to be able to unde
   <li>Literals & Constants</li>
   <li>Data Conversions</li>
   <li>Bitwise Operators</li>
+  <li>Variable Scope</li>
+  <li>Control Flow</li>
 </ol>
 
